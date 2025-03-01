@@ -1,0 +1,13 @@
+[
+  {
+    "regNum": "reg001",
+    "rollNum": "123",
+    "studentName": "Sushrita Biswas",
+    "bengaliMarks": 67,
+    "englishMarks": 88,
+    "mathMarks": 87,
+    "physicsMarks": 77,
+    "chemistryMarks": 45,
+    "csMarks": 79
+  }
+]
